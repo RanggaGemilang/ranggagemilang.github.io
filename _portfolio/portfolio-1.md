@@ -1,7 +1,9 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Titanic: Passengers Survivability Factor"
+excerpt: "Analysis of the Titanic disaster to understand the factors that contributed to survivability<br/><img src='/images/dataanalysisimg/titan1.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+On April 15, after five days of sailing, the Titanic sank in the North Atlantic after hitting an iceberg. Out of the 2,222 passengers and crew on board, more than 1,500 lost their lives in the disaster. This tragic event has led to extensive studies and speculation about the inadequate emergency procedures that contributed to the tragedy, including issues like the shortage of lifeboats, breaches of maritime etiquette, and first-class prioritization, among others.
+
+In this analysis project, we will explore and analyze some of these speculations related to the 1912 disaster. You can find the article [here](https://rpubs.com/ranggagemilang/925683) and the code [here](https://github.com/RanggaGemilang/Passengers-Survivability-Factor/tree/main/LBB%20P4DS)
