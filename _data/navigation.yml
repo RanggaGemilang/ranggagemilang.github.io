@@ -7,10 +7,10 @@ main:
     url: /portfolio/
   
   - title: "Data Science"
-    url: /portfolio2/
+    url: /publications/
     
-  - title: "Dashboard"
-    url: /posts/
+  #- title: "Dashboard"
+  #  url: /posts/
         
   #- title: "Blog Posts"
   #  url: /year-archive/
