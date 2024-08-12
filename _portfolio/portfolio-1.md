@@ -1,7 +1,7 @@
 ---
-title: "[BoardGameGeek Statistics](https://rpubs.com/ranggagemilang/boardgamestats)"
-excerpt: "<img src='/images/dataanalysisimg/board.png'><br>[BoardGameGeek](https://boardgamegeek.com/) is a testament to how the board game community continues to thrive in the digital age. It’s a place where you can seek game recommendations, clarify rules, and discuss strategies, among other things. Additionally, the site boasts the largest board game collection in existence, with over 100,000 tabletop and board games cataloged. Users can rate games, which impacts their overall rankings.
+title: "[AdventureWork's Sales Dashboard](https://app.powerbi.com/view?r=eyJrIjoiN2MxMGU5Y2QtMWVlNy00MTc2LWEzZGQtMDI0NmFmODEwYzA5IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)"
+excerpt: "<img src='/images/dashboard/sales.png'><br>In today's competitive business environment, understanding sales data is crucial for driving growth and making informed decisions. Sales data analysis provides valuable insights into customer behavior, product performance, and market trends, enabling businesses to optimize their strategies and improve overall profitability.
 <br>
-<br/>Given the wealth of information available on the site, I’m interested in analyzing and visualizing the website's data to present it in a more engaging and accessible way to understand the history and popularity of Board Games along with its types. You can find the code [here](https://github.com/RanggaGemilang/Board-Game-Statistics)<br/>"
+<br/>This project aims to delve into a comprehensive analysis of sales data to identify key patterns and trends. We will explore various aspects such as sales volume, revenue, customer demographics, and seasonal fluctuations. By leveraging advanced analytical techniques and visualization tools (Power BI), we will uncover actionable insights that can guide decision-making processes and enhance sales performance.<br/>"
 collection: portfolio
 ---
