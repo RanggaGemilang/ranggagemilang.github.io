@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: "Data Science Portfolios"
 permalink: /publications/
 author_profile: true
 ---
