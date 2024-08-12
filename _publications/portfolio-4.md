@@ -4,5 +4,5 @@ excerpt: "<img src='/images/datascienceimg/HousePrediction.png'><br>In this proj
 <br>
 <br/>We’ll use a Linear Regression model due to its simplicity, ease of interpretation, and effectiveness for this type of predictive analysis.. You can find the code [here](https://github.com/RanggaGemilang/House-Price-Prediction)<br/>"
 collection: publications
-date: 20022-09-12
+date: 2022-09-12
 ---
