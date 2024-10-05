@@ -1,7 +1,7 @@
 ---
-title: "[U.S Drone Strikes](https://ranggagemilang.shinyapps.io/dronestrikes/)"
-excerpt: "<img src='/images/dashboard/shinyapps.png'><br>With the rise of drone usage in counterterrorism, debates surrounding their operation have also intensified. When it was revealed that the U.S. used drones for targeted killings outside of official warzones, the body of literature on drone campaigns rapidly expanded. Due to the immediate-action nature of drone operations, this has led to less restrained acts of warfare. Questions about legality, accountability, and, most importantly, transparency have become central to the discourse on drone usage.
+title: "[Heart Disease Classification](https://rpubs.com/ranggagemilang/heartclassification)"
+excerpt: "<img src='/images/datascienceimg/Heart.png'><br>In this project, our goal is to analyze the causes of heart attacks and develop a predictive model for heart disease. We will use the Heart Disease Data Set from the UCI Machine Learning Repository, which includes patient data collected from Cleveland, Hungary, Switzerland, and Long Beach.
 <br>
-<br/>In this Data Analysis Project, I aim to showcase the level of transparency we have and highlight the discrepancies within it while also showcase my skills on using shinyapps as a tools of data visualization. You can find the code [here](https://github.com/RanggaGemilang/Drone-Strikes)<br/>"
+<br/>We will use Logistic Regression, k-Nearest Neighbors (kNN), Decision Tree, and Naive Bayes to build predictive models. Afterward, we will compare their performance to determine which model is the most effective. You can find the code [here](https://github.com/RanggaGemilang/Heart-Disease-Classification)<br/>"
 collection: portfolio
 ---
