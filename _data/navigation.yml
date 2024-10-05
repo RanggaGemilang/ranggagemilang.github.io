@@ -3,10 +3,10 @@ main:
   - title: "CV"
     url: /files/Rangga Gemilang - Resume 2024.pdf
 
-  - title: "Data Analysis"
+  - title: "Data Portfolios"
     url: /portfolio/
   
-  - title: "Data Science"
+  - title: "Research "
     url: /publications/
     
   #- title: "Dashboard"
